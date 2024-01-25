@@ -48,7 +48,7 @@ body {
 
 .section {
   padding: 0px 20px;
-  background-image: url(" ./img/section.jpg");
+  background-image: url("/img/section.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 1000px;
@@ -724,7 +724,7 @@ input [type="checkbox"] {
   width: 100%;
 
   &__img {
-    background-image: url("./img/bg.JPG");
+    background-image: url("/img/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
