@@ -45,7 +45,7 @@ body {
 
 .section {
   padding: 0px 20px;
-  background-image: url(./img/section.jpg);
+  background-image: url(" ./img/section.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 1000px;
