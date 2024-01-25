@@ -724,12 +724,11 @@ input [type="checkbox"] {
   width: 100%;
 
   &__img {
-    background-image: url("./img/bg.jpg");
+    background-image: url("./img/bg.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
     min-height: 717px;
-    // border: 2px solid red;
   }
 
   &__platform {
